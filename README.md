@@ -1,2 +1,2 @@
 # Scala-samples
-Simple excersise solutions from exercism.io using scala.
+  Samples of code that i worked on during scala course on Coursera, and some simple excersise solutions from    exercism.io for scala language.
